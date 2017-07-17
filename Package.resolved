@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StuWeDD",
+        "repositoryURL": "https://github.com/kiliankoe/StuWeDD",
+        "state": {
+          "branch": null,
+          "revision": "c3406341199fbc10655cbb9a930879092aee60c0",
+          "version": "0.2.1"
+        }
+      },
+      {
+        "package": "SwiftAlfred",
+        "repositoryURL": "https://github.com/benchr267/swiftalfred",
+        "state": {
+          "branch": "master",
+          "revision": "197b028307ad6a505975cf423e4ee7b3fcd02460",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
